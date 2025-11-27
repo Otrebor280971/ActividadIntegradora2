@@ -1,0 +1,7 @@
+language,huff_file,decoder,runs,mean_seconds,stdev_seconds
+es,es_wiki_Inteligencia_artificial.txt.huff,inverse,500,0.02208980994997546,0.0014242692622442993
+es,es_wiki_Inteligencia_artificial.txt.huff,tree,500,0.010518007470003796,0.0003506593455199867
+fr,fr_wiki_Seconde_Guerre_mondiale.txt.huff,inverse,500,0.07262100719595764,0.0017308568415582621
+fr,fr_wiki_Seconde_Guerre_mondiale.txt.huff,tree,500,0.03511164456798724,0.0007719805348986377
+en,en_wiki_Climate_change.txt.huff,inverse,500,0.026842964537972875,0.0007620545459739062
+en,en_wiki_Climate_change.txt.huff,tree,500,0.013055433061970689,0.0004798579721874541
